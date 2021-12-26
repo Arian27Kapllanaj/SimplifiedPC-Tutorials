@@ -1,0 +1,57 @@
+
+26-12-2021 21:04:20 [127.0.0.1][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+26-12-2021 21:05:34 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+-------------------------------
+26-12-2021 21:13:44 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+26-12-2021 21:13:44 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+26-12-2021 21:13:44 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+-------------------------------
+26-12-2021 21:13:45 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+26-12-2021 21:13:45 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+-------------------------------
+26-12-2021 21:19:06 [127.0.0.1][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+26-12-2021 21:20:07 [127.0.0.1][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+26-12-2021 21:20:33 [127.0.0.1][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+26-12-2021 21:20:55 [127.0.0.1][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+26-12-2021 21:21:05 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+26-12-2021 21:21:05 [127.0.0.1][warning] The post type (revision) is not allowed for generation in settings
+26-12-2021 21:21:05 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+26-12-2021 21:21:05 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+-------------------------------
+26-12-2021 21:21:06 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+26-12-2021 21:21:06 [127.0.0.1][warning] The post (7) has already been assigned a featured image
+-------------------------------
+26-12-2021 21:23:06 [127.0.0.1][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+26-12-2021 21:23:12 [127.0.0.1][warning] The post type (revision) is not allowed for generation in settings
+26-12-2021 21:23:12 [127.0.0.1][debug] Found images: array (
+)
+-------------------------------
+26-12-2021 21:23:12 [127.0.0.1][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
